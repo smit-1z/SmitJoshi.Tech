@@ -1,19 +1,19 @@
-# 🚀 Welcome to Your Project
+# 🚀 Welcome to Smit's Portfolio
 
-Manage, build, and publish your app with ease.
+Welcome to my personal portfolio! Here, you'll find details about my projects, technical skills, and the work I've done over the years as a software engineer.
 
-## 🌐 Project Info
+## 🌐 Portfolio URL
 
-**Live URL**: _Add your live site link here_
+**Live Portfolio**: [Add your live portfolio link here]
 
 ---
 
-## ✨ How to Edit This Project
+## ✨ How to Edit This Portfolio
 
-Pick the workflow that works best for you:
+There are several ways to contribute to and edit this portfolio:
 
-### 1. Edit Locally in Your IDE
-Prefer working locally? Follow these steps:
+### 1. **Edit Locally in Your IDE**
+To work on your portfolio locally, follow these steps:
 
 #### Prerequisite: Node.js & npm  
 (Install using [nvm](https://github.com/nvm-sh/nvm#installing-and-updating))
